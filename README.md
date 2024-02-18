@@ -11,5 +11,5 @@
 - **Unix:** là một hệ điều hành hỗ trợ đa nhiệm, đa người dùng có nguồn gốc từ những năm 1960 và 1970, được phát triển tại AT&T Bell Labs. Unix đã định hình nền tảng cho nhiều hệ điều hành hiện đại và tiêu chuẩn POSIX giúp đảm bảo sự tương thích giữa các hệ điều hành Unix-like.
 - **BSD:** (Berkeley Software Distribution) là một họ các hệ điều hành Unix-like có nguồn gốc từ Đại học California, Berkeley. BSD bao gồm nhiều phiên bản khác nhau, trong đó các bản phổ biến bao gồm FreeBSD, OpenBSD, và NetBSD.
 - **\*nix:** thuật ngữ "Unix-like" hay "*nix" là một thuật ngữ được sử dụng để chỉ các hệ điều hành hoạt động theo cách tương tự như hệ thống Unix, trong đó có cả Linux và BSD.
-###### masOS
+##### masOS
 macOS là hệ điều hành được phát triển bởi Apple dựa trên nền tảng Darwin, một hệ điều hành Unix-like, do đó, nó chia một số đặc tính và công cụ với các hệ điều hành Unix như Linux và BSD (Berkeley Software Distribution). macOS thuộc loại \*nix - thuật ngữ được sử dụng để chỉ đến bất kỳ hệ điều hành nào có nguồn gốc hoặc tương thích với Unix
